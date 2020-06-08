@@ -1,0 +1,37 @@
+3
+//*[text() = "Login"]	
+galaxy tab: //*[@title = "Samsung Galaxy Tab 10.1"]
+
+//*[@title = "MacBook"]
+//*[@title = "iPhone"]
+// img[contains(@src,"apple_cinema_30")]
+//*[@id = 'button-cart'][1]
+//*[@id = 'button-cart'][2]
+//*[@id = 'button-cart'][3]
+
+
+//*[text() = "Desktops"]
+//*[text() = "Laptops & Notebooks"]
+//*[text() = "Components"]
+
+
+
+
+
+5
+//label[text() = "E-Mail Address"]
+//*[@id = "input-email"]
+//form//child::input[@value = "Login"]
+//ul[@class="breadcrumb"]//li[3]//a[text() = "Login"]
+//div[@class="well"]//following::a[text() = "Login"]  
+
+//a[text() = "Logout"]
+//a[@class = "list-group-item"][text() = "Logout"]
+//a[text() = "Edit your account information"]
+//a[text() = "Modify your address book entries"]
+//a[text() = "Subscribe / unsubscribe to newsletter"]
+
+//button[@name = "GBP"]
+//button[@name = "EUR"]
+//button[@name = "USD"]
+	
