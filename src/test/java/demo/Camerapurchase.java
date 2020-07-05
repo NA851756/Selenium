@@ -28,5 +28,7 @@ public class Camerapurchase extends Phone {
 			Qty.sendKeys("2");
 			Qty.sendKeys(Keys.ENTER);
 			
+			System.out.println("");
+			
 	 }
 }
